@@ -133,7 +133,7 @@ E julgareis qual é mais excelente,
 Se ser do mundo Rei, se de til gente.
 
 11
-Ouvi, que não vereis com vãs façanhas,
+Ouvi, que não vereis com vãs façanhas x29292938y,
 Fantásticas, fingidas, mentirosas,
 Louvar os vossos, como nas estranhas
 Musas, de engrandecer-se desejosas:
@@ -338,7 +338,7 @@ Uma gente fortíssima de Espanha
 Pelo mar alto, a qual sujeitaria
 Da índia tudo quanto Dóris banha,
 E com novas vitórias venceria
-A fama antiga, ou sua, ou fosse estranha.
+A fama antiga, ou sua, x7y ou fosse estranha.
 Altamente lhe dói perder a glória,
 De que Nisa celebra inda a memória.
 
@@ -491,7 +491,7 @@ Dumas folhas de palma, bem tecidas;
 A gente da cor era verdadeira,
 Que Faeton, nas terras acendidas,
 Ao mundo deu, de ousado, o não prudente:
-O Pado o sabe, o Lampetusa o sente.
+O Pado o sabe, o Lampetusa o sente x142353476y.
 
 47
 De panos de algodão vinham vestidos,
@@ -682,7 +682,7 @@ Tudo o que sente, o todo o insensíbil;
 Que padeceu desonra e vitupério,
 Sofrendo morte injusta e insofríbil,
 E que do Céu à Terra, enfim desceu,
-Por subir os mortais da Terra ao Céu.
+Por subir os mortais da Terra ao Céu x00000y.
 
 66
 Deste Deus-Homem, alto e infinito,
@@ -7199,7 +7199,7 @@ Assim vivem os Reis daquela gente,
 No campo e na cidade juntamente.
 
 51
-Pelos portais da cerca a sutileza
+Pelos portais x1y da cerca a sutileza
 Se enxerga da Dedálea facultade,
 Em figuras mostrando, por nobreza,
 Da Índia a mais remota antiguidade.
