@@ -3,7 +3,7 @@
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org x1y
+with this eBook or online at www.gutenberg.org
 
 
 Title: Os Lusíadas
@@ -62,7 +62,7 @@ A quem Neptuno e Marte obedeceram:
 Cesse tudo o que a Musa antígua canta,
 Que outro valor mais alto se alevanta.
 
-4 3222-5656
+4
 E vós, Tágides minhas, pois criado
 Tendes em mim um novo engenho ardente,
 Se sempre em verso humilde celebrado
@@ -90,9 +90,9 @@ De aumento da pequena Cristandade;
 Vós, ó novo temor da Maura lança,
 Maravilha fatal da nossa idade,
 Dada ao mundo por Deus, que todo o mande,
-Para do mundo a Deus dar parte grande 32214040;
+Para do mundo a Deus dar parte grande;
 
-7(37)3212-9999
+7
 Vós, tenro e novo ramo florescente
 De uma árvore de Cristo mais amada
 Que nenhuma nascida no Ocidente,
@@ -339,7 +339,7 @@ Pelo mar alto, a qual sujeitaria
 Da índia tudo quanto Dóris banha,
 E com novas vitórias venceria
 A fama antiga, ou sua, ou fosse estranha.
-Altamente lhe dói perder a glória (11) 9991-5656,
+Altamente lhe dói perder a glória,
 De que Nisa celebra inda a memória.
 
 32
@@ -446,7 +446,7 @@ Para os determinados aposentos.
 Enquanto isto se passa na formosa
 Casa etérea do Olimpo onipotente,
 Cortava o mar a gente belicosa,
-Já (31) 9 9923-8989 lá da banda do Austro e do Oriente,
+Já lá da banda do Austro e do Oriente,
 Entre a costa Etiópica e a famosa
 Ilha de São Lourenço; e o Sol ardente
 Queimava então os Deuses, que Tifeu
@@ -7266,7 +7266,7 @@ De outra alguma no preço e no lavor.
 No recostado gesto se assinala
 Um venerando e próspero senhor;
 Um pano de ouro cinge, e na cabeça
-De preciosas gemas se adereça. (11)985234444
+De preciosas gemas se adereça.
 
 58
 Bem junto dele um velho reverente,
@@ -9915,7 +9915,7 @@ Reciprocar-se, a ponta no ar virando
 Contra quem as tirou; que Deus peleja
 Por quem estende a fé da Madre Igreja.
 
-41x746574y
+41
 "Ali do sal os montes não defendem
 De corrupção os corpos no combate,
 Que mortos pela praia e mar se estendem
@@ -9970,7 +9970,7 @@ Mas em tempo que fomes e asperezas,
 Doenças, frechas e trovões ardentes,
 A sazão e o lugar, fazem cruezas
 Nos soldados a tudo obedientes,
-Parece de selváticas brutezas x70000y,
+Parece de selváticas brutezas,
 De peitos inumanos e insolentes,
 Dar extremo suplício pela culpa
 Que a fraca humanidade e Amor desculpa.
@@ -10616,7 +10616,7 @@ Poder tirá-lo a terra, com possantes
 Forças d' homens, de engenhos, de alifantes.
 
 111
-"x111y Era tão grande o peso do madeiro
+"Era tão grande o peso do madeiro
 Que, só pera abalar-se, nada abasta;
 Mas o núncio de Cristo verdadeiro
 Menos trabalho em tal negócio gasta:
