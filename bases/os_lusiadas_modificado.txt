@@ -5244,7 +5244,7 @@ Eu, que cair não pude neste engano,
 (Que é grande dos amantes a cegueira)
 Encheram-me com grandes abondanças
 O peito de desejos e esperanças.
-
+x1y
 55
 --"Já néscio, já da guerra desistindo,
 Uma noite de Dóris prometida,
@@ -5546,7 +5546,7 @@ Já serás sabedor, e dos enganos
 Dos povos de Mombaça pouco humanos.
 
 85
-"Até que aqui no teu seguro porto,
+"Até que aqui no teu seguro porto, x777y
 Cuja brandura e doce tratamento
 Dará saúde a um vivo, e vida a um morto,
 Nos trouxe a piedade do alto assento.
@@ -5737,7 +5737,7 @@ Muito para cortar do salso argento;
 Já do Pagão benigno se despede,
 Que a todos amizade longa pede.
 
-4
+4x01y
 Pede-lhe mais que aquele porto seja
 Sempre com suas frotas visitado,
 Que nenhum outro bem maior deseja,
@@ -7866,7 +7866,7 @@ O poder Lusitano, pela ausência
 Do Capitão devoto, que, apartado
 Orando invoca a suma e trina Essência?
 Vê-lo com pressa já dos seus achado,
-Que lhe dizem que falta resistência
+Que lhe dizem que falta resistênciaxy09998y
 Contra poder tamanho, e que viesse,
 Por que consigo esforço aos fracos desse?
 
@@ -11442,7 +11442,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+     http://www.gutenberg.orgx515y
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
